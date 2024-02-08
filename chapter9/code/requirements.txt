@@ -1,0 +1,5 @@
+pandas_datareader
+yfinance
+matplotlib
+seaborn
+yahooquery

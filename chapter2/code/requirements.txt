@@ -1,0 +1,6 @@
+fix_yahoo_finance
+matplotlib
+pandas-datareader
+yahoo_fin
+requests_cache
+scipy
