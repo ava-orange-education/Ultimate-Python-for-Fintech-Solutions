@@ -1,0 +1,9 @@
+tensorflow
+yahoo_fin
+scikit-learn
+matplotlib
+pandas_datareader
+yfinance
+seaborn
+torch
+plotly
