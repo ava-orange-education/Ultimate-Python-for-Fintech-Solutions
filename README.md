@@ -1,2 +1,2 @@
-# Python-for-Finance
-Python for Finance,published by Orange, AVA™
+# Ultimate Python for Fintech Solutions
+Ultimate Python for Fintech Solutions,published by Orange, AVA™
